@@ -4,6 +4,15 @@
 
 Manikineko Phone is a phone operating system with its own launcher, first-run setup, signed app store and a hardened SELinux policy. No Google account, no tracking, no analytics. It is not tied to one brand or one phone: the first supported device is the Samsung Galaxy Core 2 (SM-G355HN), more devices will follow.
 
+## Screenshots
+
+| | | |
+|:--:|:--:|:--:|
+| ![Home](screenshots/home.png) | ![Store](screenshots/store.png) | ![About phone](screenshots/about-phone.png) |
+| ![Setup: welcome](screenshots/oobe-1-welcome.png) | ![Setup: language](screenshots/oobe-2-language.png) | ![Setup: Lithuanian](screenshots/oobe-2b-language-lithuanian.png) |
+| ![Setup: Wi-Fi](screenshots/oobe-3-wifi.png) | ![Setup: date and time](screenshots/oobe-4-datetime.png) | ![Setup: Store](screenshots/oobe-5-store.png) |
+| ![Notes](screenshots/notes.png) | ![Files](screenshots/files.png) | ![Browser](screenshots/browser.png) |
+
 ## Download
 
 The ROM is in **[Releases](../../releases)**: `manikineko-phone-1.8-kanas3gnfc.zip` for the Samsung Galaxy Core 2 (`kanas3gnfc`).
